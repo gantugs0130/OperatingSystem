@@ -1,0 +1,1 @@
+cmd_/home/gantugs/Desktop/School/US/GantugsHW/HW2/Simple/simple.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/gantugs/Desktop/School/US/GantugsHW/HW2/Simple/simple.ko /home/gantugs/Desktop/School/US/GantugsHW/HW2/Simple/simple.o /home/gantugs/Desktop/School/US/GantugsHW/HW2/Simple/simple.mod.o ;  true
